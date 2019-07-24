@@ -6,6 +6,10 @@ This repo contains the tasks that are provided out-of-the-box with Azure Pipelin
 
 This provides open examples on how we write tasks which will help you write other tasks which can be uploaded to your account or server.  See **Writing Tasks** below.
 
+## mars-score
+
+![Puppet Forge feedback score](https://img.shields.io/puppetforge/f/puppet/yum.svg?label=mars-score)
+
 ## Status
 |   | Build & Test |
 |---|:-----:|
